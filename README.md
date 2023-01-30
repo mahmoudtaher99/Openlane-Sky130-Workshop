@@ -1,2 +1,2 @@
 # Openlane-Sky130-Workshop
-VSD-Advanced Physical Design Using OpenLane/Sky130
+VSD-Advanced Physical Design Using OpenLane/Sky130 Workshop
