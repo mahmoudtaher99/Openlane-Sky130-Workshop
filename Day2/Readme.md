@@ -1,1 +1,1 @@
-Workshop Day2 overview,LAbs,Exams
+Workshop Day2 overview,Labs,Exams
